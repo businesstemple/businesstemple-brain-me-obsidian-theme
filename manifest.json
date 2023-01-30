@@ -1,0 +1,10 @@
+{
+    "name": "BusinessTemple BrainMe",
+    "author": "David from BusinessTemple.co",
+    "authorUrl": "https://businesstemple.co/documentation-plugins-expert-campus-obsidian/",
+    "minAppVersion": "1.0.0",
+    "repo": "<github username>/<repository>",
+    "screenshot": "BusinessTemple-BrainMe-screenshot.png",
+    "modes": ["dark", "light"],
+    "version": "0.1.0",
+}
